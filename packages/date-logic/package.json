@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": "https://github.com/bisht-parth/monorepo",
   "publishConfig": {
-    "@parth:registry": "https://npm.pkg.github.com/bisht-parth"
+    "@bisht-parth:registry": "https://npm.pkg.github.com/bisht-parth"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
